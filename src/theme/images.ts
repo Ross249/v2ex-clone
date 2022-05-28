@@ -1,0 +1,26 @@
+const Images = {
+  logo: require('@/assets/images/logo.png'),
+  icon: require('@/assets/images/icon.png'),
+  home: require('@/assets/images/home.png'),
+  homeInactive: require('@/assets/images/home-inactive.png'),
+  discovery: require('@/assets/images/discovery.png'),
+  discoveryInactive: require('@/assets/images/discovery-inactive.png'),
+  notification: require('@/assets/images/notification.png'),
+  notificationInactive: require('@/assets/images/notification-inactive.png'),
+  profile: require('@/assets/images/profile.png'),
+  profileInactive: require('@/assets/images/profile-inactive.png'),
+  moreCycleGrey: require('@/assets/images/more-circle-grey.png'),
+  timeCycleGrey: require('@/assets/images/time-circle-grey.png'),
+  heartGrey: require('@/assets/images/heart-grey.png'),
+  heartRed: require('@/assets/images/heart-red.png'),
+  gold: require('@/assets/images/gold.png'),
+  silver: require('@/assets/images/silver.png'),
+  bronze: require('@/assets/images/bronze.png'),
+  arrowRightGrey: require('@/assets/images/arrow-right-grey.png'),
+  send: require('@/assets/images/send.png'),
+  starOutline: require('@/assets/images/star-outline.png'),
+  starFilled: require('@/assets/images/star-filled.png'),
+  chatGrey: require('@/assets/images/chat-grey.png'),
+};
+
+export default Images;
