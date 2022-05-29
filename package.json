@@ -19,7 +19,7 @@
     "@react-navigation/stack": "^6.2.1",
     "@reduxjs/toolkit": "^1.8.2",
     "axios": "^0.27.2",
-    "cheerio": "^1.0.0-rc.11",
+    "cheerio": "1.0.0-rc.5",
     "dayjs": "^1.11.2",
     "react": "17.0.2",
     "react-native": "0.68.2",
