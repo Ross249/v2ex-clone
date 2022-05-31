@@ -118,7 +118,7 @@ export const fetchUserInfo = createAsyncThunk(
 /**
  * 获取收藏节点
  */
-export const fetchMyNode = createAsyncThunk('user/fetchMyNodes', async () => {
+export const fetchMyNodes = createAsyncThunk('user/fetchMyNodes', async () => {
   const response = await userCrawler.fetchMyNodes();
   return response;
 });
